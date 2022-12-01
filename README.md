@@ -1,2 +1,2 @@
 # BPP solver
-Program which solves the BPP with a FFD, two LSA from random solutions (HC and GD) and a hybrid using teh greedy and the local search.
+Program which solves the Bin Packing Problem with a First Fit Decreasing, two local searches from initial random solutions (Hill Climbing and Gradient Descend) and a hybrid using both, the greedy and the local searches.
